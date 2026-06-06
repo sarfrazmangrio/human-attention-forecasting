@@ -1,0 +1,5 @@
+Source,Status,Rows,Columns
+Google Trends platforms,Live Google Trends,157,5
+Google Trends content categories,Live Google Trends with anchor scaling,157,10
+Wikipedia page views,Loaded with skipped pages if unavailable,157,10
+Reddit Kaggle engagement,Loaded and mapped to content categories,548,10

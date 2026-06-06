@@ -1,0 +1,391 @@
+Date,Target,Group,Selected model,Forecast
+2026-06-07,YouTube,Platform,LSTM,95.36235046386719
+2026-06-14,YouTube,Platform,LSTM,94.9872817993164
+2026-06-21,YouTube,Platform,LSTM,94.47950744628906
+2026-06-28,YouTube,Platform,LSTM,93.85303497314453
+2026-07-05,YouTube,Platform,LSTM,93.40679931640625
+2026-07-12,YouTube,Platform,LSTM,93.213134765625
+2026-07-19,YouTube,Platform,LSTM,93.22819519042969
+2026-07-26,YouTube,Platform,LSTM,93.37935638427734
+2026-08-02,YouTube,Platform,LSTM,93.59618377685547
+2026-08-09,YouTube,Platform,LSTM,93.75999450683594
+2026-08-16,YouTube,Platform,LSTM,94.01850128173828
+2026-08-23,YouTube,Platform,LSTM,94.01669311523438
+2026-08-30,YouTube,Platform,LSTM,93.8630599975586
+2026-09-06,YouTube,Platform,LSTM,93.91004943847656
+2026-09-13,YouTube,Platform,LSTM,93.95279693603516
+2026-09-20,YouTube,Platform,LSTM,93.98986053466797
+2026-09-27,YouTube,Platform,LSTM,94.02873992919922
+2026-10-04,YouTube,Platform,LSTM,94.0673828125
+2026-10-11,YouTube,Platform,LSTM,94.10142517089844
+2026-10-18,YouTube,Platform,LSTM,94.12899017333984
+2026-10-25,YouTube,Platform,LSTM,94.14901733398438
+2026-11-01,YouTube,Platform,LSTM,94.16213989257812
+2026-11-08,YouTube,Platform,LSTM,94.17168426513672
+2026-11-15,YouTube,Platform,LSTM,94.17561340332031
+2026-11-22,YouTube,Platform,LSTM,94.18170928955078
+2026-11-29,YouTube,Platform,LSTM,94.19329833984375
+2026-06-07,TikTok,Platform,ARIMA,17.50200383811159
+2026-06-14,TikTok,Platform,ARIMA,17.70613869815234
+2026-06-21,TikTok,Platform,ARIMA,17.789148105491957
+2026-06-28,TikTok,Platform,ARIMA,17.82290305408574
+2026-07-05,TikTok,Platform,ARIMA,17.836629167680396
+2026-07-12,TikTok,Platform,ARIMA,17.842210755040544
+2026-07-19,TikTok,Platform,ARIMA,17.844480451939386
+2026-07-26,TikTok,Platform,ARIMA,17.84540340157364
+2026-08-02,TikTok,Platform,ARIMA,17.845778709848418
+2026-08-09,TikTok,Platform,ARIMA,17.84593132521971
+2026-08-16,TikTok,Platform,ARIMA,17.84599338474016
+2026-08-23,TikTok,Platform,ARIMA,17.846018620625944
+2026-08-30,TikTok,Platform,ARIMA,17.84602888254751
+2026-09-06,TikTok,Platform,ARIMA,17.846033055455692
+2026-09-13,TikTok,Platform,ARIMA,17.846034752327235
+2026-09-20,TikTok,Platform,ARIMA,17.846035442343144
+2026-09-27,TikTok,Platform,ARIMA,17.84603572293124
+2026-10-04,TikTok,Platform,ARIMA,17.846035837029596
+2026-10-11,TikTok,Platform,ARIMA,17.846035883426556
+2026-10-18,TikTok,Platform,ARIMA,17.846035902293416
+2026-10-25,TikTok,Platform,ARIMA,17.846035909965437
+2026-11-01,TikTok,Platform,ARIMA,17.84603591308519
+2026-11-08,TikTok,Platform,ARIMA,17.846035914353806
+2026-11-15,TikTok,Platform,ARIMA,17.846035914869674
+2026-11-22,TikTok,Platform,ARIMA,17.846035915079447
+2026-11-29,TikTok,Platform,ARIMA,17.846035915164748
+2026-06-07,Instagram,Platform,ARIMA,29.894849823058173
+2026-06-14,Instagram,Platform,ARIMA,30.17556874342275
+2026-06-21,Instagram,Platform,ARIMA,30.263631690098364
+2026-06-28,Instagram,Platform,ARIMA,30.29125748235747
+2026-07-05,Instagram,Platform,ARIMA,30.29992383326615
+2026-07-12,Instagram,Platform,ARIMA,30.302642511426324
+2026-07-19,Instagram,Platform,ARIMA,30.303495374530588
+2026-07-26,Instagram,Platform,ARIMA,30.303762922004676
+2026-08-02,Instagram,Platform,ARIMA,30.303846853001964
+2026-08-09,Instagram,Platform,ARIMA,30.30387318258078
+2026-08-16,Instagram,Platform,ARIMA,30.30388144230297
+2026-08-23,Instagram,Platform,ARIMA,30.303884033419642
+2026-08-30,Instagram,Platform,ARIMA,30.30388484626606
+2026-09-06,Instagram,Platform,ARIMA,30.3038851012601
+2026-09-13,Instagram,Platform,ARIMA,30.30388518125302
+2026-09-20,Instagram,Platform,ARIMA,30.303885206347204
+2026-09-27,Instagram,Platform,ARIMA,30.303885214219378
+2026-10-04,Instagram,Platform,ARIMA,30.30388521668892
+2026-10-11,Instagram,Platform,ARIMA,30.303885217463627
+2026-10-18,Instagram,Platform,ARIMA,30.303885217706657
+2026-10-25,Instagram,Platform,ARIMA,30.3038852177829
+2026-11-01,Instagram,Platform,ARIMA,30.303885217806815
+2026-11-08,Instagram,Platform,ARIMA,30.30388521781432
+2026-11-15,Instagram,Platform,ARIMA,30.30388521781667
+2026-11-22,Instagram,Platform,ARIMA,30.30388521781741
+2026-11-29,Instagram,Platform,ARIMA,30.30388521781764
+2026-06-07,LinkedIn,Platform,Prophet,10.601497002964265
+2026-06-14,LinkedIn,Platform,Prophet,11.200454582507206
+2026-06-21,LinkedIn,Platform,Prophet,11.348924340319998
+2026-06-28,LinkedIn,Platform,Prophet,11.190329302695519
+2026-07-05,LinkedIn,Platform,Prophet,11.130656515294596
+2026-07-12,LinkedIn,Platform,Prophet,11.301195469071692
+2026-07-19,LinkedIn,Platform,Prophet,11.466677355964002
+2026-07-26,LinkedIn,Platform,Prophet,11.422104066991462
+2026-08-02,LinkedIn,Platform,Prophet,11.304296204785045
+2026-08-09,LinkedIn,Platform,Prophet,11.406500852432155
+2026-08-16,LinkedIn,Platform,Prophet,11.766329304617106
+2026-08-23,LinkedIn,Platform,Prophet,12.090994111936586
+2026-08-30,LinkedIn,Platform,Prophet,12.123411485144084
+2026-09-06,LinkedIn,Platform,Prophet,11.964980619377538
+2026-09-13,LinkedIn,Platform,Prophet,11.931207015848488
+2026-09-20,LinkedIn,Platform,Prophet,12.134754250763848
+2026-09-27,LinkedIn,Platform,Prophet,12.34583939865571
+2026-10-04,LinkedIn,Platform,Prophet,12.307331574587902
+2026-10-11,LinkedIn,Platform,Prophet,12.08003759908217
+2026-10-18,LinkedIn,Platform,Prophet,11.960157177467902
+2026-10-25,LinkedIn,Platform,Prophet,12.0868772027236
+2026-11-01,LinkedIn,Platform,Prophet,12.2730890162965
+2026-11-08,LinkedIn,Platform,Prophet,12.28654860452898
+2026-11-15,LinkedIn,Platform,Prophet,12.18665879582246
+2026-11-22,LinkedIn,Platform,Prophet,12.228578264812745
+2026-11-29,LinkedIn,Platform,Prophet,12.43761442647146
+2026-06-07,Reddit,Platform,ARIMA,23.958047469331582
+2026-06-14,Reddit,Platform,ARIMA,23.33115813050833
+2026-06-21,Reddit,Platform,ARIMA,23.125718368975118
+2026-06-28,Reddit,Platform,ARIMA,23.058393096387057
+2026-07-05,Reddit,Platform,ARIMA,23.036329731947628
+2026-07-12,Reddit,Platform,ARIMA,23.02909928145446
+2026-07-19,Reddit,Platform,ARIMA,23.026729769112965
+2026-07-26,Reddit,Platform,ARIMA,23.025953249207074
+2026-08-02,Reddit,Platform,ARIMA,23.02569877356933
+2026-08-09,Reddit,Platform,ARIMA,23.02561537860455
+2026-08-16,Reddit,Platform,ARIMA,23.025588048993697
+2026-08-23,Reddit,Platform,ARIMA,23.025579092725998
+2026-08-30,Reddit,Platform,ARIMA,23.02557615764099
+2026-09-06,Reddit,Platform,ARIMA,23.02557519577559
+2026-09-13,Reddit,Platform,ARIMA,23.025574880559834
+2026-09-20,Reddit,Platform,ARIMA,23.025574777259543
+2026-09-27,Reddit,Platform,ARIMA,23.0255747434067
+2026-10-04,Reddit,Platform,ARIMA,23.025574732312684
+2026-10-11,Reddit,Platform,ARIMA,23.025574728677032
+2026-10-18,Reddit,Platform,ARIMA,23.02557472748558
+2026-10-25,Reddit,Platform,ARIMA,23.025574727095126
+2026-11-01,Reddit,Platform,ARIMA,23.025574726967168
+2026-11-08,Reddit,Platform,ARIMA,23.025574726925235
+2026-11-15,Reddit,Platform,ARIMA,23.025574726911493
+2026-11-22,Reddit,Platform,ARIMA,23.02557472690699
+2026-11-29,Reddit,Platform,ARIMA,23.025574726905514
+2026-06-07,Artificial Intelligence and Technology,Content category,ARIMA,3.714671664294998
+2026-06-14,Artificial Intelligence and Technology,Content category,ARIMA,4.084249431286658
+2026-06-21,Artificial Intelligence and Technology,Content category,ARIMA,4.2753689798548535
+2026-06-28,Artificial Intelligence and Technology,Content category,ARIMA,4.37420252750637
+2026-07-05,Artificial Intelligence and Technology,Content category,ARIMA,4.4253122659636
+2026-07-12,Artificial Intelligence and Technology,Content category,ARIMA,4.451742617066417
+2026-07-19,Artificial Intelligence and Technology,Content category,ARIMA,4.465410530080739
+2026-07-26,Artificial Intelligence and Technology,Content category,ARIMA,4.47247861046455
+2026-08-02,Artificial Intelligence and Technology,Content category,ARIMA,4.4761337230087745
+2026-08-09,Artificial Intelligence and Technology,Content category,ARIMA,4.478023889360242
+2026-08-16,Artificial Intelligence and Technology,Content category,ARIMA,4.479001350052079
+2026-08-23,Artificial Intelligence and Technology,Content category,ARIMA,4.479506823765197
+2026-08-30,Artificial Intelligence and Technology,Content category,ARIMA,4.479768219110081
+2026-09-06,Artificial Intelligence and Technology,Content category,ARIMA,4.479903394341856
+2026-09-13,Artificial Intelligence and Technology,Content category,ARIMA,4.479973297435554
+2026-09-20,Artificial Intelligence and Technology,Content category,ARIMA,4.480009446384176
+2026-09-27,Artificial Intelligence and Technology,Content category,ARIMA,4.480028140070211
+2026-10-04,Artificial Intelligence and Technology,Content category,ARIMA,4.48003780712585
+2026-10-11,Artificial Intelligence and Technology,Content category,ARIMA,4.480042806245047
+2026-10-18,Artificial Intelligence and Technology,Content category,ARIMA,4.480045391436824
+2026-10-25,Artificial Intelligence and Technology,Content category,ARIMA,4.480046728315634
+2026-11-01,Artificial Intelligence and Technology,Content category,ARIMA,4.480047419655042
+2026-11-08,Artificial Intelligence and Technology,Content category,ARIMA,4.480047777167012
+2026-11-15,Artificial Intelligence and Technology,Content category,ARIMA,4.480047962046982
+2026-11-22,Artificial Intelligence and Technology,Content category,ARIMA,4.48004805765386
+2026-11-29,Artificial Intelligence and Technology,Content category,ARIMA,4.4800481070949925
+2026-06-07,Personal Finance,Content category,ARIMA,1.232595164407831e-32
+2026-06-14,Personal Finance,Content category,ARIMA,1.232595164407831e-32
+2026-06-21,Personal Finance,Content category,ARIMA,1.232595164407831e-32
+2026-06-28,Personal Finance,Content category,ARIMA,1.232595164407831e-32
+2026-07-05,Personal Finance,Content category,ARIMA,1.232595164407831e-32
+2026-07-12,Personal Finance,Content category,ARIMA,1.232595164407831e-32
+2026-07-19,Personal Finance,Content category,ARIMA,1.232595164407831e-32
+2026-07-26,Personal Finance,Content category,ARIMA,1.232595164407831e-32
+2026-08-02,Personal Finance,Content category,ARIMA,1.232595164407831e-32
+2026-08-09,Personal Finance,Content category,ARIMA,1.232595164407831e-32
+2026-08-16,Personal Finance,Content category,ARIMA,1.232595164407831e-32
+2026-08-23,Personal Finance,Content category,ARIMA,1.232595164407831e-32
+2026-08-30,Personal Finance,Content category,ARIMA,1.232595164407831e-32
+2026-09-06,Personal Finance,Content category,ARIMA,1.232595164407831e-32
+2026-09-13,Personal Finance,Content category,ARIMA,1.232595164407831e-32
+2026-09-20,Personal Finance,Content category,ARIMA,1.232595164407831e-32
+2026-09-27,Personal Finance,Content category,ARIMA,1.232595164407831e-32
+2026-10-04,Personal Finance,Content category,ARIMA,1.232595164407831e-32
+2026-10-11,Personal Finance,Content category,ARIMA,1.232595164407831e-32
+2026-10-18,Personal Finance,Content category,ARIMA,1.232595164407831e-32
+2026-10-25,Personal Finance,Content category,ARIMA,1.232595164407831e-32
+2026-11-01,Personal Finance,Content category,ARIMA,1.232595164407831e-32
+2026-11-08,Personal Finance,Content category,ARIMA,1.232595164407831e-32
+2026-11-15,Personal Finance,Content category,ARIMA,1.232595164407831e-32
+2026-11-22,Personal Finance,Content category,ARIMA,1.232595164407831e-32
+2026-11-29,Personal Finance,Content category,ARIMA,1.232595164407831e-32
+2026-06-07,Mental Health and Self Improvement,Content category,Prophet,11.297821767922095
+2026-06-14,Mental Health and Self Improvement,Content category,Prophet,12.160404467536512
+2026-06-21,Mental Health and Self Improvement,Content category,Prophet,12.19887205074943
+2026-06-28,Mental Health and Self Improvement,Content category,Prophet,11.65183131406566
+2026-07-05,Mental Health and Self Improvement,Content category,Prophet,11.319772966367742
+2026-07-12,Mental Health and Self Improvement,Content category,Prophet,11.602713210331665
+2026-07-19,Mental Health and Self Improvement,Content category,Prophet,12.177227900158682
+2026-07-26,Mental Health and Self Improvement,Content category,Prophet,12.544899482470386
+2026-08-02,Mental Health and Self Improvement,Content category,Prophet,12.646358852821354
+2026-08-09,Mental Health and Self Improvement,Content category,Prophet,12.805525159344723
+2026-08-16,Mental Health and Self Improvement,Content category,Prophet,13.20955726323654
+2026-08-23,Mental Health and Self Improvement,Content category,Prophet,13.674218613583118
+2026-08-30,Mental Health and Self Improvement,Content category,Prophet,13.963829287537148
+2026-09-06,Mental Health and Self Improvement,Content category,Prophet,14.161189249612356
+2026-09-13,Mental Health and Self Improvement,Content category,Prophet,14.552582657765116
+2026-09-20,Mental Health and Self Improvement,Content category,Prophet,15.189510106999572
+2026-09-27,Mental Health and Self Improvement,Content category,Prophet,15.738415314240578
+2026-10-04,Mental Health and Self Improvement,Content category,Prophet,15.838189624696705
+2026-10-11,Mental Health and Self Improvement,Content category,Prophet,15.505695630479538
+2026-10-18,Mental Health and Self Improvement,Content category,Prophet,15.079637084124753
+2026-10-25,Mental Health and Self Improvement,Content category,Prophet,14.816984459738062
+2026-11-01,Mental Health and Self Improvement,Content category,Prophet,14.69186828168279
+2026-11-08,Mental Health and Self Improvement,Content category,Prophet,14.6135882043422
+2026-11-15,Mental Health and Self Improvement,Content category,Prophet,14.66608273590794
+2026-11-22,Mental Health and Self Improvement,Content category,Prophet,14.953398675817631
+2026-11-29,Mental Health and Self Improvement,Content category,Prophet,15.257248852905478
+2026-06-07,Sports,Content category,TFT,50.60333251953125
+2026-06-14,Sports,Content category,TFT,50.450504302978516
+2026-06-21,Sports,Content category,TFT,50.60819625854492
+2026-06-28,Sports,Content category,TFT,50.83100128173828
+2026-07-05,Sports,Content category,TFT,50.99856185913086
+2026-07-12,Sports,Content category,TFT,51.062400817871094
+2026-07-19,Sports,Content category,TFT,51.027889251708984
+2026-07-26,Sports,Content category,TFT,50.92811584472656
+2026-08-02,Sports,Content category,TFT,50.79586410522461
+2026-08-09,Sports,Content category,TFT,50.652408599853516
+2026-08-16,Sports,Content category,TFT,50.50863265991211
+2026-08-23,Sports,Content category,TFT,50.368953704833984
+2026-08-30,Sports,Content category,TFT,50.23390197753906
+2026-09-06,Sports,Content category,TFT,50.10164260864258
+2026-09-13,Sports,Content category,TFT,49.968406677246094
+2026-09-20,Sports,Content category,TFT,49.828121185302734
+2026-09-27,Sports,Content category,TFT,49.67172622680664
+2026-10-04,Sports,Content category,TFT,49.48637390136719
+2026-10-11,Sports,Content category,TFT,49.255332946777344
+2026-10-18,Sports,Content category,TFT,48.96015167236328
+2026-10-25,Sports,Content category,TFT,48.58855056762695
+2026-11-01,Sports,Content category,TFT,48.1495475769043
+2026-11-08,Sports,Content category,TFT,47.68617248535156
+2026-11-15,Sports,Content category,TFT,47.26142501831055
+2026-11-22,Sports,Content category,TFT,46.91670227050781
+2026-11-29,Sports,Content category,TFT,46.650333404541016
+2026-06-07,Gaming,Content category,TFT,31.532470703125
+2026-06-14,Gaming,Content category,TFT,30.910978317260742
+2026-06-21,Gaming,Content category,TFT,30.816558837890625
+2026-06-28,Gaming,Content category,TFT,31.016462326049805
+2026-07-05,Gaming,Content category,TFT,30.98699951171875
+2026-07-12,Gaming,Content category,TFT,30.86631965637207
+2026-07-19,Gaming,Content category,TFT,30.77882194519043
+2026-07-26,Gaming,Content category,TFT,30.763896942138672
+2026-08-02,Gaming,Content category,TFT,30.822383880615234
+2026-08-09,Gaming,Content category,TFT,30.936452865600586
+2026-08-16,Gaming,Content category,TFT,31.081647872924805
+2026-08-23,Gaming,Content category,TFT,31.235424041748047
+2026-08-30,Gaming,Content category,TFT,31.381166458129883
+2026-09-06,Gaming,Content category,TFT,31.50857925415039
+2026-09-13,Gaming,Content category,TFT,31.612201690673828
+2026-09-20,Gaming,Content category,TFT,31.689546585083008
+2026-09-27,Gaming,Content category,TFT,31.739665985107422
+2026-10-04,Gaming,Content category,TFT,31.762224197387695
+2026-10-11,Gaming,Content category,TFT,31.757078170776367
+2026-10-18,Gaming,Content category,TFT,31.724218368530273
+2026-10-25,Gaming,Content category,TFT,31.663864135742188
+2026-11-01,Gaming,Content category,TFT,31.576841354370117
+2026-11-08,Gaming,Content category,TFT,31.464923858642578
+2026-11-15,Gaming,Content category,TFT,31.330907821655273
+2026-11-22,Gaming,Content category,TFT,31.178611755371094
+2026-11-29,Gaming,Content category,TFT,31.012449264526367
+2026-06-07,News and Politics,Content category,ARIMA,100.0
+2026-06-14,News and Politics,Content category,ARIMA,100.0
+2026-06-21,News and Politics,Content category,ARIMA,100.0
+2026-06-28,News and Politics,Content category,ARIMA,100.0
+2026-07-05,News and Politics,Content category,ARIMA,100.0
+2026-07-12,News and Politics,Content category,ARIMA,100.0
+2026-07-19,News and Politics,Content category,ARIMA,100.0
+2026-07-26,News and Politics,Content category,ARIMA,100.0
+2026-08-02,News and Politics,Content category,ARIMA,100.0
+2026-08-09,News and Politics,Content category,ARIMA,100.0
+2026-08-16,News and Politics,Content category,ARIMA,100.0
+2026-08-23,News and Politics,Content category,ARIMA,100.0
+2026-08-30,News and Politics,Content category,ARIMA,100.0
+2026-09-06,News and Politics,Content category,ARIMA,100.0
+2026-09-13,News and Politics,Content category,ARIMA,100.0
+2026-09-20,News and Politics,Content category,ARIMA,100.0
+2026-09-27,News and Politics,Content category,ARIMA,100.0
+2026-10-04,News and Politics,Content category,ARIMA,100.0
+2026-10-11,News and Politics,Content category,ARIMA,100.0
+2026-10-18,News and Politics,Content category,ARIMA,100.0
+2026-10-25,News and Politics,Content category,ARIMA,100.0
+2026-11-01,News and Politics,Content category,ARIMA,100.0
+2026-11-08,News and Politics,Content category,ARIMA,100.0
+2026-11-15,News and Politics,Content category,ARIMA,100.0
+2026-11-22,News and Politics,Content category,ARIMA,100.0
+2026-11-29,News and Politics,Content category,ARIMA,100.0
+2026-06-07,Entertainment and Media,Content category,ARIMA,5.236427210886087
+2026-06-14,Entertainment and Media,Content category,ARIMA,6.102171679251019
+2026-06-21,Entertainment and Media,Content category,ARIMA,6.119494107094411
+2026-06-28,Entertainment and Media,Content category,ARIMA,6.460162525334635
+2026-07-05,Entertainment and Media,Content category,ARIMA,6.277108460292177
+2026-07-12,Entertainment and Media,Content category,ARIMA,6.517092089896994
+2026-07-19,Entertainment and Media,Content category,ARIMA,6.309126993765815
+2026-07-26,Entertainment and Media,Content category,ARIMA,6.5222656561663825
+2026-08-02,Entertainment and Media,Content category,ARIMA,6.319197232633091
+2026-08-09,Entertainment and Media,Content category,ARIMA,6.51874086563894
+2026-08-16,Entertainment and Media,Content category,ARIMA,6.325238794476063
+2026-08-23,Entertainment and Media,Content category,ARIMA,6.513943847512324
+2026-08-30,Entertainment and Media,Content category,ARIMA,6.330359902591756
+2026-09-06,Entertainment and Media,Content category,ARIMA,6.509145543020502
+2026-09-13,Entertainment and Media,Content category,ARIMA,6.335109256848592
+2026-09-20,Entertainment and Media,Content category,ARIMA,6.504554124770605
+2026-09-27,Entertainment and Media,Content category,ARIMA,6.339592752104987
+2026-10-04,Entertainment and Media,Content category,ARIMA,6.50019475180325
+2026-10-11,Entertainment and Media,Content category,ARIMA,6.3438392032710835
+2026-10-18,Entertainment and Media,Content category,ARIMA,6.496061528746292
+2026-10-25,Entertainment and Media,Content category,ARIMA,6.3478635597236925
+2026-11-01,Entertainment and Media,Content category,ARIMA,6.492143729503053
+2026-11-08,Entertainment and Media,Content category,ARIMA,6.351677855131992
+2026-11-15,Entertainment and Media,Content category,ARIMA,6.488430299886907
+2026-11-22,Entertainment and Media,Content category,ARIMA,6.355293126338643
+2026-11-29,Entertainment and Media,Content category,ARIMA,6.484910609089827
+2026-06-07,Science and Education,Content category,Prophet,40.51126096260288
+2026-06-14,Science and Education,Content category,Prophet,43.0338345377092
+2026-06-21,Science and Education,Content category,Prophet,43.8329086683047
+2026-06-28,Science and Education,Content category,Prophet,43.19567309774373
+2026-07-05,Science and Education,Content category,Prophet,42.55973990343068
+2026-07-12,Science and Education,Content category,Prophet,42.800468852528184
+2026-07-19,Science and Education,Content category,Prophet,43.80661132394283
+2026-07-26,Science and Education,Content category,Prophet,45.269144344933395
+2026-08-02,Science and Education,Content category,Prophet,47.17528856508126
+2026-08-09,Science and Education,Content category,Prophet,49.38484965963578
+2026-08-16,Science and Education,Content category,Prophet,51.247321445350785
+2026-08-23,Science and Education,Content category,Prophet,52.14072435209679
+2026-08-30,Science and Education,Content category,Prophet,52.28590109238911
+2026-09-06,Science and Education,Content category,Prophet,52.55334743496633
+2026-09-13,Science and Education,Content category,Prophet,53.30172405101095
+2026-09-20,Science and Education,Content category,Prophet,53.771745057068074
+2026-09-27,Science and Education,Content category,Prophet,53.00609214694992
+2026-10-04,Science and Education,Content category,Prophet,51.2267761088242
+2026-10-11,Science and Education,Content category,Prophet,49.818399109467514
+2026-10-18,Science and Education,Content category,Prophet,49.7794235951697
+2026-10-25,Science and Education,Content category,Prophet,50.58197651051352
+2026-11-01,Science and Education,Content category,Prophet,50.98848550480823
+2026-11-08,Science and Education,Content category,Prophet,50.822066142553595
+2026-11-15,Science and Education,Content category,Prophet,51.278971423230345
+2026-11-22,Science and Education,Content category,Prophet,53.15112299738778
+2026-11-29,Science and Education,Content category,Prophet,55.19333743906326
+2026-06-07,Lifestyle and Advice,Content category,TFT,0.003966417163610458
+2026-06-14,Lifestyle and Advice,Content category,TFT,0.0
+2026-06-21,Lifestyle and Advice,Content category,TFT,0.0
+2026-06-28,Lifestyle and Advice,Content category,TFT,0.0
+2026-07-05,Lifestyle and Advice,Content category,TFT,0.0
+2026-07-12,Lifestyle and Advice,Content category,TFT,0.0
+2026-07-19,Lifestyle and Advice,Content category,TFT,0.0
+2026-07-26,Lifestyle and Advice,Content category,TFT,0.0
+2026-08-02,Lifestyle and Advice,Content category,TFT,0.0
+2026-08-09,Lifestyle and Advice,Content category,TFT,0.0
+2026-08-16,Lifestyle and Advice,Content category,TFT,0.0
+2026-08-23,Lifestyle and Advice,Content category,TFT,0.0
+2026-08-30,Lifestyle and Advice,Content category,TFT,0.0
+2026-09-06,Lifestyle and Advice,Content category,TFT,0.0
+2026-09-13,Lifestyle and Advice,Content category,TFT,0.0
+2026-09-20,Lifestyle and Advice,Content category,TFT,0.0
+2026-09-27,Lifestyle and Advice,Content category,TFT,0.0
+2026-10-04,Lifestyle and Advice,Content category,TFT,0.0
+2026-10-11,Lifestyle and Advice,Content category,TFT,0.0
+2026-10-18,Lifestyle and Advice,Content category,TFT,0.0
+2026-10-25,Lifestyle and Advice,Content category,TFT,0.0
+2026-11-01,Lifestyle and Advice,Content category,TFT,0.0
+2026-11-08,Lifestyle and Advice,Content category,TFT,0.0
+2026-11-15,Lifestyle and Advice,Content category,TFT,0.0
+2026-11-22,Lifestyle and Advice,Content category,TFT,0.0
+2026-11-29,Lifestyle and Advice,Content category,TFT,0.0
+2026-06-07,Culture Food and Travel,Content category,TFT,54.15636444091797
+2026-06-14,Culture Food and Travel,Content category,TFT,53.400272369384766
+2026-06-21,Culture Food and Travel,Content category,TFT,53.251461029052734
+2026-06-28,Culture Food and Travel,Content category,TFT,53.24565887451172
+2026-07-05,Culture Food and Travel,Content category,TFT,53.2484016418457
+2026-07-12,Culture Food and Travel,Content category,TFT,53.228179931640625
+2026-07-19,Culture Food and Travel,Content category,TFT,53.184051513671875
+2026-07-26,Culture Food and Travel,Content category,TFT,53.12611389160156
+2026-08-02,Culture Food and Travel,Content category,TFT,53.06673049926758
+2026-08-09,Culture Food and Travel,Content category,TFT,53.01704788208008
+2026-08-16,Culture Food and Travel,Content category,TFT,52.985687255859375
+2026-08-23,Culture Food and Travel,Content category,TFT,52.97845458984375
+2026-08-30,Culture Food and Travel,Content category,TFT,52.99890899658203
+2026-09-06,Culture Food and Travel,Content category,TFT,53.048980712890625
+2026-09-13,Culture Food and Travel,Content category,TFT,53.12958526611328
+2026-09-20,Culture Food and Travel,Content category,TFT,53.24117660522461
+2026-09-27,Culture Food and Travel,Content category,TFT,53.38383483886719
+2026-10-04,Culture Food and Travel,Content category,TFT,53.55781936645508
+2026-10-11,Culture Food and Travel,Content category,TFT,53.76341247558594
+2026-10-18,Culture Food and Travel,Content category,TFT,54.00099182128906
+2026-10-25,Culture Food and Travel,Content category,TFT,54.27107238769531
+2026-11-01,Culture Food and Travel,Content category,TFT,54.574012756347656
+2026-11-08,Culture Food and Travel,Content category,TFT,54.91010284423828
+2026-11-15,Culture Food and Travel,Content category,TFT,55.27907180786133
+2026-11-22,Culture Food and Travel,Content category,TFT,55.680137634277344
+2026-11-29,Culture Food and Travel,Content category,TFT,56.111507415771484
