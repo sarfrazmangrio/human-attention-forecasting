@@ -1,0 +1,36 @@
+Attention Intelligence Brief
+
+Main platform signal
+LinkedIn shows the strongest platform growth with an expected change of 17.32 percent over the next 26 weeks.
+
+Main content signal
+Science and Education shows the strongest content category growth with an expected change of 36.24 percent over the next 26 weeks.
+
+Platform ranking
+1. LinkedIn with 17.32 percent expected change
+2. TikTok with 1.97 percent expected change
+3. Instagram with 1.37 percent expected change
+4. YouTube with -1.23 percent expected change
+5. Reddit with -3.89 percent expected change
+
+Content category ranking
+1. Science and Education with 36.24 percent expected change
+2. Mental Health and Self Improvement with 35.05 percent expected change
+3. Entertainment and Media with 23.84 percent expected change
+4. Artificial Intelligence and Technology with 20.60 percent expected change
+5. Culture Food and Travel with 3.61 percent expected change
+6. Personal Finance with 0.00 percent expected change
+7. News and Politics with 0.00 percent expected change
+8. Gaming with -1.65 percent expected change
+9. Sports with -7.81 percent expected change
+10. Lifestyle and Advice with -100.00 percent expected change
+
+Model reliability
+For content category targets, Prophet had the best average backtest MAE.
+For platform targets, LSTM had the best average backtest MAE.
+
+Business meaning
+The forecast can help a content or marketing team decide which platforms and content themes deserve closer monitoring during planning.
+
+Caution
+Google Trends, Wikipedia, and Reddit engagement are proxy signals. They support decision making, but they do not guarantee future behavior.
