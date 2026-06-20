@@ -1,0 +1,15 @@
+# Full modeling stack for the notebook (heavier than the app).
+# The deployed Streamlit app only needs requirements.txt.
+pandas
+numpy
+requests
+pytrends
+prophet
+statsmodels
+scikit-learn
+tensorflow
+neuralforecast
+plotly
+gradio
+groq
+streamlit
